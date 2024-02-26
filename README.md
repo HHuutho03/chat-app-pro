@@ -1,4 +1,4 @@
-# fullstack-chat-app (express,sql,nodejs,socket,react,render ...)
+# fullstack-chat-app (express,sql,nodejs,socket,react,tailwind,daisyUi,render ...)
 
 [Demo link homepage](https://hhuutho03febookiingcare.vercel.app/home)
 [Demo link admin](https://hhuutho03febookiingcare.vercel.app/system/user-manage)
